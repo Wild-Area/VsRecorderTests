@@ -1,0 +1,13 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+.idea/
+.vscode/
+*.swp
+build/
+
+/test/**/test_out_*
+
+Manifest.toml
+tessdata/

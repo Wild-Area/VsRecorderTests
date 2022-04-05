@@ -10,4 +10,4 @@ build/
 /test/**/test_out_*
 
 Manifest.toml
-tessdata/
+.ipynb_checkpoints/

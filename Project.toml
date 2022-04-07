@@ -1,3 +1,5 @@
 [deps]
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 VsRecorder = "3cbe5514-f32e-4276-a204-eafa757f34a8"
 VsRecorderBase = "44a6b507-66db-466b-8a0a-a7f3935f5e1e"
